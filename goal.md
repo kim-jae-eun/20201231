@@ -1,12 +1,7 @@
 ### Today I will try to practice
 - commit
 - branch
-- checkout
-- cherry-pick
-- reset
-- revert
-- rebase
-- merge
+- checkout (상대참조/절대참조)
 
 *ref: https://learngitbranching.js.org/?locale=ko*
 
